@@ -1,0 +1,2 @@
+Time (s)	Motor Command (V)	Desired Position  (V)	Actual Position (V)
+0.003	8.200	2.030	2.124
